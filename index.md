@@ -11,7 +11,13 @@
     width: 100%;
     height: 100%;
   }
+  footer {
+    display: none !important;
+  }
 
+  .btn {
+    display: none !important;
+  }
 </style>
 
 <div class="videoWrapper">
