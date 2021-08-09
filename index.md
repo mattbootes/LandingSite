@@ -14,6 +14,14 @@
   footer {
     display: none !important;
   }
+  main {
+    max-width: 128rem !important;
+  }
+
+  .project-tagline {
+    max-width: 42rem;
+    margin: auto;
+  }
 
   .btn {
     display: none !important;
