@@ -2,4 +2,6 @@ theme: jekyll-theme-cayman
 title: Olive Bootes
 description: |
   Come unto me all you who are weary and carrying heavy burdens, and I will give you rest. Take my yoke upon you and learn from me for I am gentle and humble in heart and you will find rest for your souls".
-  Matthew 11:28-29
+  <br />Matthew 11:28-29
+github:
+  is_project_page: false
